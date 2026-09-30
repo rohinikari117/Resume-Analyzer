@@ -1,0 +1,6 @@
+{
+  "name": "ResumePulse - AI Resume Analyzer & ATS Optimizer",
+  "description": "Automate your resume review, ATS score optimization, and job-readiness audit powered by n8n workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
